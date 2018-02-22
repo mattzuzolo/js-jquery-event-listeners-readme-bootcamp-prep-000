@@ -40,8 +40,8 @@ function submitIt () {
     
       
     //else {
-      alert ("You entered the wrong value");
-    }  
+    //  alert ("You entered the wrong value");
+    //}  
     
     
   }); //close parentheses here for jquery thing
