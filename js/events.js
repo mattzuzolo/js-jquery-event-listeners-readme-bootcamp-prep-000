@@ -39,9 +39,7 @@ function submitIt () {
     } //if statement ends here
     
       
-    //else {
-    //  alert ("You entered the wrong value");
-    //}  
+    alert ("you entered the wrong value");
     
     
   }); //close parentheses here for jquery thing
