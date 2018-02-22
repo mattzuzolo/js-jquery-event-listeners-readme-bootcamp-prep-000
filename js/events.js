@@ -39,7 +39,7 @@ function submitIt () {
     } //if statement ends here
     
       
-    else {
+    //else {
       alert ("You entered the wrong value");
     }  
     
