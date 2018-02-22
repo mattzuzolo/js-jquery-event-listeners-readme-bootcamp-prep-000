@@ -10,7 +10,7 @@ function getIt () {
 }
 
 function frameIt () {
-  $('img').on('tasty', function() {
+  $('img').on('load', function() {
     //$("#img").addClass("tasty");
     
   }); //close parentheses here for jquery thing
