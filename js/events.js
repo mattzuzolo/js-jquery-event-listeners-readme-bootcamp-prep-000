@@ -32,7 +32,7 @@ function submitIt () {
   
   $("form").on("submit", function () {
     if ($ ("input:first" ).val() === "correct")
-      alert ('your form ')
+      alert ("Your form is going to be submitted now.")
     
     
   }); //close parentheses here for jquery thing
