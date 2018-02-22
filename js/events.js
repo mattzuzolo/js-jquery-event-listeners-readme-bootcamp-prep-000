@@ -11,7 +11,7 @@ function getIt () {
 
 function frameIt () {
   $('img').on('load', function() {
-    $("img").addClass("tasty");
+    $("img").addClass("tasty"); //look up .addClass() on jQuery website for more info.
     
   }); //close parentheses here for jquery thing
   
