@@ -11,7 +11,7 @@ function getIt () {
 
 function frameIt () {
   $('#tasty').on('load', function() {
-    
+    $('')
     
   }); //close parentheses here for jquery thing
   
